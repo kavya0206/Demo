@@ -15,6 +15,10 @@ public class Demo {
 		
 		log.fatal("button is missing");
 		log.fatal("Alpha");
+		System.out.println("Develop");
+		
+		System.out.println("Develop");
+		System.out.println("Develop");
 
 	}
 

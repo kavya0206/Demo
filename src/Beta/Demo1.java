@@ -16,6 +16,9 @@ public class Demo1 {
 		log.info("GIthub");
 		log.fatal("Fatal");
 		log.info("GIthub112");
+		
+		System.out.println("Develop");System.out.println("Develop");
+		System.out.println("Develop");
 	}
 
 }
