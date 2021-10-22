@@ -52,7 +52,7 @@ a.moveToElement(driver.findElement(By.cssSelector("a[id='nav-link-accountList']"
 		new Actions(driver).dragAndDrop(draggable, droppable).build().perform();
 		log.info("Drag and drop success");
 
-
+		System.out.println("act");
 
 
 
