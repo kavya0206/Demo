@@ -13,9 +13,9 @@ public class Demo1 {
 		if(5>4)
 			log.info("object is present");
 		log.error("Object is not present");
-		
+		log.info("GIthub");
 		log.fatal("Fatal");
-
+		log.info("GIthub112");
 	}
 
 }
