@@ -14,6 +14,7 @@ public class Demo {
 		log.error("Button is not clicked");
 		
 		log.fatal("button is missing");
+		log.fatal("Alpha");
 
 	}
 
